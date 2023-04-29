@@ -4,7 +4,7 @@
 # Oyun hakkında
 Bu oyun Papers,Please oyunun kendimce değiştirilmiş halidir. Oyunun hala fazla eksiklikleri var ama geliştirilecektir. Müzikler sesler Papers, Please'ye aittir.
 
-# Gerekli yazılımlar/kütüphaneler
+# Gerekli yazılımlar/kütüphaneler (setup ile kurulum yapılmayacaksa)
 * Python 3+ (Python 3 ve üstü)
 * Tkinter(Windows'da varsayılan olarak gelir), Pygame kütüphanelerini yüklemelisiniz. </br>
 
